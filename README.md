@@ -1,4 +1,6 @@
 # yan
+## QRcode 主頁連結
+![QRcode](qrcode_github.com.png)
 
 |項次|項目|內容|
 |---|---|---|
