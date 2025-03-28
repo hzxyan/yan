@@ -16,4 +16,21 @@
 <a href ="https://www.youtube.com/watch?v=jWQx2f-CErU" target="_blank"><img src="https://img.youtube.com/vi/jWQx2f-CErU/sddefault.jpg" alt="aespa" width="720" hieght="360" border="10" /></a>
 <br>影片取自Youtube
 
+
 <br>
+
+<details>
+<summary>
+
+## AESPA成員
+
+</summary>
+成員介紹<br>
+
+|藝名|本名|生日|國籍|
+|---|---|---|---|
+|Karina|劉知珉|2000年4月11日|韓國|
+|Giselle|内永枝利|2000年10月30日|日本|
+|Winter|金旼炡|2001年1月1日|韓國|
+|Ningning|寧藝卓|2002年10月23日|中國|
+</details>
